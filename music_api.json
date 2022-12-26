@@ -1,4 +1,128 @@
-[{"id":1,"maker":"SZA","model":"SOS","year":"2022","engine": "23", "country": "R&B/Pop", "image": "https://images.genius.com/cde31e780d76c90305bc02d73bf4640b.1000x1000x1.png"},
-{"id":2,"maker":"Kendrick Lamar","model":"Mr. Morale & The Big Steppers","year":"2022","engine": "19", "country": "Hip-hop", "image": "https://images.genius.com/2f8cae9b56ed9c643520ef2fd62cd378.1000x1000x1.png"},
-{"id":3,"maker":"The Weeknd","model":"Dawn FM","year":"2022","engine": "16", "country": "R&B", "image": "https://images.genius.com/5213f5166fc15c9f320be65bc3c122e8.1000x1000x1.jpg"}
+[
+    {
+        "id": 1,
+        "maker": "SZA",
+        "model": "SOS",
+        "year": "2022",
+        "engine": "23",
+        "country": "R&B/Pop",
+        "image": "https://images.genius.com/cde31e780d76c90305bc02d73bf4640b.1000x1000x1.png"
+    },
+    {
+        "id": 2,
+        "maker": "Kendrick Lamar",
+        "model": "Mr. Morale & The Big Steppers",
+        "year": "2022",
+        "engine": "19",
+        "country": "Hip-hop",
+        "image": "https://images.genius.com/2f8cae9b56ed9c643520ef2fd62cd378.1000x1000x1.png"
+    },
+    {
+        "id": 3,
+        "maker": "The Weeknd",
+        "model": "Dawn FM",
+        "year": "2022",
+        "engine": "16",
+        "country": "R&B",
+        "image": "https://images.genius.com/5213f5166fc15c9f320be65bc3c122e8.1000x1000x1.jpg"
+    },
+    {
+        "id": 4,
+        "maker": "SLAVA MARLOW",
+        "model": "ТУЗИК",
+        "year": "2022",
+        "engine": "9",
+        "country": "Hip-hop",
+        "image": "https://images.genius.com/0370d5c7a501992ffce20c5b4294946d.1000x1000x1.png"
+    },
+    {
+        "id": 5,
+        "maker": "Heronwater",
+        "model": "NO COMMERCIAL LYRICS",
+        "year": "2022",
+        "engine": "9",
+        "country": "Hip-hop",
+        "image": "https://images.genius.com/2082d4427158952dd5f417ba9f3f8364.1000x1000x1.jpg"
+    },
+    {
+        "id": 6,
+        "maker": "КУОК",
+        "model": "DECADANCE 3",
+        "year": "2020",
+        "engine": "24",
+        "country": "Hip-hop",
+        "image": "https://images.genius.com/ac021e94fcb4794f74b35e95cdffdbe9.1000x1000x1.jpg"
+    },
+    {
+        "id": 7,
+        "maker": "PINQ",
+        "model": "K.O.",
+        "year": "2022",
+        "engine": "17",
+        "country": "Hip-hop",
+        "image": "https://images.genius.com/e822dc4530a36bd6297819589e0f0fb0.1000x1000x1.png"
+    },
+    {
+        "id": 8,
+        "maker": "Markul",
+        "model": "Sense Of Human",
+        "year": "2021",
+        "engine": "20",
+        "country": "Hip-hop",
+        "image": "https://images.genius.com/dfd8236087267a724cda0dba0414b485.1000x1000x1.png"
+    },
+    {
+        "id": 9,
+        "maker": "Denzel Curry",
+        "model": "Melt My Eyez See Your Future",
+        "year": "2022",
+        "engine": "14",
+        "country": "Hip-hop",
+        "image": "https://images.genius.com/3f07f0f2ee3a75dbc3a549d7149ae04f.1000x1000x1.png"
+    },
+    {
+        "id": 10,
+        "maker": "Future",
+        "model": "I NEVER LIKED YOU",
+        "year": "2022",
+        "engine": "16",
+        "country": "Hip-hop",
+        "image": "https://images.genius.com/00f8e85605b1dc721def3e94659b9599.1000x1000x1.jpg"
+    },
+    {
+        "id": 11,
+        "maker": "Pusha T",
+        "model": "It's Almost Dry",
+        "year": "2022",
+        "engine": "12",
+        "country": "R&B",
+        "image": "https://images.genius.com/be90caf311e660f653ea0285ff749b55.1000x1000x1.jpg"
+    },
+    {
+        "id": 12,
+        "maker": "FKA Twigs",
+        "model": "CAPRISONGS",
+        "year": "2022",
+        "engine": "17",
+        "country": "Electronic",
+        "image": "https://images.genius.com/886e3b2392875894f2bbeda9719adc40.1000x1000x1.png"
+    },
+    {
+        "id": 13,
+        "maker": "Isaiah Rashad",
+        "model": "The House Is Burning",
+        "year": "2021",
+        "engine": "16",
+        "country": "Hip-hop",
+        "image": "https://images.genius.com/57642a42fcae66692bfaca392b307afc.999x999x1.png"
+    },
+    {
+        "id": 14,
+        "maker": "TM88, Pi'erre Bourne",
+        "model": "Yo!88",
+        "year": "2021",
+        "engine": "11",
+        "country": "Hip-hop",
+        "image": "https://images.genius.com/87df6c3d68ff29aba2a617946facbb4e.1000x1000x1.png"
+    }
 ]
